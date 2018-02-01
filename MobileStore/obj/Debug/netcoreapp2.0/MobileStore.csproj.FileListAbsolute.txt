@@ -9,3 +9,14 @@ c:\users\alex\source\repos\MobileStore\MobileStore\obj\Debug\netcoreapp2.0\Mobil
 c:\users\alex\source\repos\MobileStore\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.AssemblyInfo.cs
 c:\users\alex\source\repos\MobileStore\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.dll
 c:\users\alex\source\repos\MobileStore\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.pdb
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.deps.json
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.runtimeconfig.json
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.dll
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.pdb
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.AssemblyInfo.cs
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.dll
+C:\Users\Alex\source\repos\repo-MobileStore\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.pdb

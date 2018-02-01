@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\alex\\source\\repos\\MobileStore\\MobileStore\\MobileStore.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\repo-MobileStore\\MobileStore\\MobileStore.csproj",
       "projectName": "MobileStore",
-      "projectPath": "c:\\users\\alex\\source\\repos\\MobileStore\\MobileStore\\MobileStore.csproj",
+      "projectPath": "C:\\Users\\Alex\\source\\repos\\repo-MobileStore\\MobileStore\\MobileStore.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\alex\\source\\repos\\MobileStore\\MobileStore\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\source\\repos\\repo-MobileStore\\MobileStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

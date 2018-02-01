@@ -35,6 +35,19 @@ namespace MobileStore.Controllers
             db.SaveChanges();
             return "Спасибо," + order.User + ", за покупку!";
         }
-   
+        
+        [HttpGet]
+        public IActionResult AddMobile()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public string AddMobile(Phone phone)
+        {
+            db.Phones.Add(phone);
+            db.SaveChanges();
+            return "Телефон успешно добавлен!";
+        }
     }
 }
