@@ -43,11 +43,11 @@ namespace MobileStore.Controllers
         }
 
         [HttpPost]
-        public string AddMobile(Phone phone)
+        public RedirectResult AddMobile(Phone phone)
         {
             db.Phones.Add(phone);
             db.SaveChanges();
-            return "Телефон успешно добавлен!";
+            return RedirectPermanent("/Home/Index");
         }
     }
 }
