@@ -42,6 +42,7 @@ namespace MobileStore
             }
 
             app.UseStaticFiles();
+            app.UseStatusCodePages();
 
             app.UseMvc(routes =>
             {

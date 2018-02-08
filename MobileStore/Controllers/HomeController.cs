@@ -5,6 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MobileStore.Models;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace MobileStore.Controllers
 {
@@ -34,20 +36,6 @@ namespace MobileStore.Controllers
             db.Orders.Add(order);
             db.SaveChanges();
             return "Спасибо," + order.User + ", за покупку!";
-        }
-        
-        [HttpGet]
-        public IActionResult AddMobile()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public RedirectResult AddMobile(Phone phone)
-        {
-            db.Phones.Add(phone);
-            db.SaveChanges();
-            return RedirectPermanent("/Home/Index");
         }
     }
 }

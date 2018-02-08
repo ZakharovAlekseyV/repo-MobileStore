@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Удаление телефона";
+}
+@model MobileStore.Models.Phone
+<h2>Удаление телефона</h2>
+@Html.DisplayForModel()
+<br />
+@using (Html.BeginForm())
+{
+    <input type="submit" value="удалить" />
+}

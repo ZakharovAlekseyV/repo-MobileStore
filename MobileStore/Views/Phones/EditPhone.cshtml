@@ -1,0 +1,26 @@
+﻿@model MobileStore.Models.Phone
+@{
+    ViewData["Title"] = "Редактирование телефона";
+}
+
+<h2>Форма редактирования телефона</h2>
+<form method="post" class="form-horizontal" role="form">
+    @Html.HiddenFor(m => m.Id)
+    <p>
+        @Html.LabelFor(m => m.Name, "Модель телефона")
+        <br />
+        @Html.EditorFor(m => m.Name)
+    </p>
+    <p>
+        @Html.LabelFor(m=>m.Company, "Производитель телефона")
+        <br />
+        @Html.EditorFor(m=>m.Company)
+    </p>
+    <p>
+        @Html.LabelFor(m=>m.Price, "Цена телефона")
+        <br />
+        @Html.EditorFor(m=>m.Price)
+    </p>
+    <p> <input type="submit"class="btn btn-default" value="отправить" /> </p>
+  
+</form>
